@@ -1,0 +1,16 @@
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.csproj.AssemblyReference.cache
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.AssemblyInfoInputs.cache
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.AssemblyInfo.cs
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.csproj.CoreCompileInputs.cache
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\bin\Debug\net5.0\ParduotuvesPrograma.exe
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\bin\Debug\net5.0\ParduotuvesPrograma.deps.json
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\bin\Debug\net5.0\ParduotuvesPrograma.runtimeconfig.json
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\bin\Debug\net5.0\ParduotuvesPrograma.runtimeconfig.dev.json
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\bin\Debug\net5.0\ParduotuvesPrograma.dll
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\bin\Debug\net5.0\ref\ParduotuvesPrograma.dll
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\bin\Debug\net5.0\ParduotuvesPrograma.pdb
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.dll
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ref\ParduotuvesPrograma.dll
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.pdb
+C:\Users\eiman\OneDrive\Stalinis kompiuteris\shopas\ParduotuvesPrograma\obj\Debug\net5.0\ParduotuvesPrograma.genruntimeconfig.cache
